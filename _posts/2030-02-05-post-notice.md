@@ -53,16 +53,12 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
   {{ notice-2 | markdownify }}
 </div>
 
-Or you could skip the capture and stick with straight HTML.
+Agile projects are safer in the sense that risk is lowered because you are continuously getting feedback on what you are doing. 
 
-```html
+<!-- ```html
 <div class="notice">
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
-```
+``` -->
 
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
