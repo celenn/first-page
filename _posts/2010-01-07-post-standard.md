@@ -79,5 +79,5 @@ Companies that adopt Agile approaches have an entrepreneurial spirit to them an
 Agile products have lower costs than traditional projects. 
 This is because you are consistently receiving feedback and focusing on value. 
 You are not performing wasteful activities. 
-Also any problems are resolved when they are discovered leading to lower rework costs. 
-Agile projects are safer in the sense that risk is lowered because you are continuously getting feedback on what you are doing. 
+
+
