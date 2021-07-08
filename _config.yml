@@ -64,9 +64,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/abdullah-celen/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/celenn"
@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abdullah-celen/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
