@@ -39,7 +39,7 @@ So the goals include:
     End users want to have tools and platforms which provide freedom and independence to go as fast as they can delivering value to their end users.
   
   - Flexible & Evolvable
-    It is understood platforms will be opinionated to some degree to help ensure order, as well as provide improved productivity and efficiency. But to be practically useful, platforms must be able to adapt to diverse community needs, including allowing for deviation where required. [https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams/](Eg. Spotify see more at)
+    It is understood platforms will be opinionated to some degree to help ensure order, as well as provide improved productivity and efficiency. But to be practically useful, platforms must be able to adapt to diverse community needs, including allowing for deviation where required. [Eg. Spotify see more at](https://engineering.atspotify.com/2020/08/27/how-we-improved-developer-productivity-for-our-devops-teams) 
 
   -  Reliable & Caters for Day 2 Operations
     If engineers and operational staff are going to run their solutions on your platform, they will expect the fundamental operations underpinning it to be rock solid. 
