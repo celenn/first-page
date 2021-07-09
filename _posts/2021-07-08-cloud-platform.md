@@ -7,6 +7,7 @@ tags:
   - platform
   - DevOps
 ---
+> *This blog is about my keynotes from <https://www.infoq.com/articles/platform-engineering-as-community-service>*
 ## Key Points
 - **Platform Engineering** is about using tools and skills to build, maintain and provide a curated platform experience for the communities using it.
 
