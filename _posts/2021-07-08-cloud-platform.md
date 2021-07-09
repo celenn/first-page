@@ -1,11 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "What is Platform Engineer!"
+date: 2021-07-09T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - platform
+  - DevOps
 ---
 ## Key Points
 - **Platform Engineering** is about using tools and skills to build, maintain and provide a curated platform experience for the communities using it.
