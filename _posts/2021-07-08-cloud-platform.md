@@ -43,9 +43,9 @@ Leadership & Governance
   -  Reliable & Caters for Day 2 Operations
     If engineers and operational staff are going to run their solutions on your platform, they will expect the fundamental operations underpinning it to be rock solid. 
 
- ## How Platform Engineers do Well?
+ **How Platform Engineers do Well?**
 
-  ### 1. Make Teams Independent of You 
+  **1. Make Teams Independent of You**
     Blocking dependencies, these should be avoided at all costs.  Instead you want non-blocking dependencies through things such as self-service offerings and great documentation.
 
     - Define a Platform Contract 
@@ -57,7 +57,7 @@ Leadership & Governance
     - Provide Good Documentation
        Going beyond textual documentations on wikis, this includes keeping up-to-date reference implementations (for example how to deploy a specific microservice stack) through Helm chart templates, and so on. Also promoting a good developer experience via good command line docs and usage info.
 
-  ### 2. Promote Freedom Over Autonomy  
+  **2. Promote Freedom Over Autonomy** 
 
     Platforms should aim to provide teams with as much freedom as possible, but within agreed boundaries so that everyone can play nicely with each other.
 
@@ -67,5 +67,5 @@ Leadership & Governance
     - Choice Over “Anything Goes” 
       It is beneficial to provide limited but evolvable set of choices for teams such as **Technology Stacks, Ecosystems, Templated Pipelines**. 
 
-  ### 3. Be A Role Model & Walk The Talk
+  **3. Be A Role Model & Walk The Talk**
     Putting yourself in their shoes, as well as modelling the behaviour and approaches you would like and expect will go a long way towards achieving overall success.
