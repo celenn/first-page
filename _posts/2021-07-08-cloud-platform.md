@@ -22,14 +22,14 @@ So the goals include:
 - Helping organisations to grow teams in a sustainable manner to meet increased business demands 
 
 ## Who gets help from Platform Engineers?
-Traditional Engineering Teams 
+- Traditional Engineering Teams 
   For this community, a good platform will ease their lives considerably by providing tools and services to help with provisioning infrastructure, getting decent and possibly templated/cookie-cutter CI/CD pipelines up and running fast, and wherever possible, minimising the wrangling needed to do non business critical work
-Data Analysts & Scientists 
+- Data Analysts & Scientists 
   you can’t just apply standard DevOps style processes to ML operations - there are some significant differences. Enter MLOps. It’s not only code involved now, but also data (both training and real), model parameters, multiple pipelines and more which all needs versioning, tracing and handling. Skill sets also differ vastly - the more scientist and less engineering focused nature of the work, requires processes be adapted to allow for a more experimental approach whilst still providing safety nets such as source control etc.
-Leadership & Governance
+- Leadership & Governance
   This community is more interested in extracting valuable information out of the platform to measure and assess broader benefits, impacts and outcomes. For example they are often looking to gain information which will help them answer questions such as: Is our overall cloud spend and utilisation efficient and within limits (perhaps broader cloud contracts need negotiating, or budget/opex projections considered)? Are privacy, security and regulatory compliance standards being adhered to across the teams?
 
-  ## What does a successful platform experience look like?
+  **What does a successful platform experience look like?**
 
   - Clear Boundaries & Responsibilities
     Teams need to understand what is required of them to be a good platform citizen, as well as where they have license to go off-piste and the conditions allowing that. 
@@ -48,24 +48,24 @@ Leadership & Governance
   **1. Make Teams Independent of You**
     Blocking dependencies, these should be avoided at all costs.  Instead you want non-blocking dependencies through things such as self-service offerings and great documentation.
 
-    - Define a Platform Contract 
-      Often just a simple document on a wiki, below are examples for a Kubernetes-based platform of some of the areas typically covered in such a contract
+  - Define a Platform Contract 
+    Often just a simple document on a wiki, below are examples for a Kubernetes-based platform of some of the areas typically covered in such a contract
 
-    - Favour Automation & API Interactions 
-      Automation and integration via APIs removes reliance on humans as well as minimises errors.
+  - Favour Automation & API Interactions 
+    Automation and integration via APIs removes reliance on humans as well as minimises errors.
 
-    - Provide Good Documentation
-       Going beyond textual documentations on wikis, this includes keeping up-to-date reference implementations (for example how to deploy a specific microservice stack) through Helm chart templates, and so on. Also promoting a good developer experience via good command line docs and usage info.
+  - Provide Good Documentation
+    Going beyond textual documentations on wikis, this includes keeping up-to-date reference implementations (for example how to deploy a specific microservice stack) through Helm chart templates, and so on. Also promoting a good developer experience via good command line docs and usage info.
 
   **2. Promote Freedom Over Autonomy** 
 
-    Platforms should aim to provide teams with as much freedom as possible, but within agreed boundaries so that everyone can play nicely with each other.
+  Platforms should aim to provide teams with as much freedom as possible, but within agreed boundaries so that everyone can play nicely with each other.
 
-    - Establish Ground Rules
-      Establishing fundamental ground rules upfront is needed to make it crystal clear what the framework and context are for further decisions and options moving forward.
-    
-    - Choice Over “Anything Goes” 
-      It is beneficial to provide limited but evolvable set of choices for teams such as **Technology Stacks, Ecosystems, Templated Pipelines**. 
+  - Establish Ground Rules
+    Establishing fundamental ground rules upfront is needed to make it crystal clear what the framework and context are for further decisions and options moving forward.
+  
+  - Choice Over “Anything Goes” 
+    It is beneficial to provide limited but evolvable set of choices for teams such as **Technology Stacks, Ecosystems, Templated Pipelines**. 
 
   **3. Be A Role Model & Walk The Talk**
     Putting yourself in their shoes, as well as modelling the behaviour and approaches you would like and expect will go a long way towards achieving overall success.
