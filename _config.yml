@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Abdullah Celen"
   avatar : "/assets/images/abdullah.png"
-  bio    : "Platform Enginner - Capgemini"
+  bio    : "Platform Engineer - Capgemini"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -8,6 +8,7 @@ tags:
   - DevOps
 ---
 > *This blog is about my keynotes from <https://www.infoq.com/articles/platform-engineering-as-community-service>*
+
 ## Key Points
 - **Platform Engineering** is about using tools and skills to build, maintain and provide a curated platform experience for the communities using it.
 
@@ -15,7 +16,7 @@ tags:
 - Aim to create a platform that has clear boundaries & responsibilities; prioritises self service & automation; offers a flexible & evolvable experience; and is wholly reliable
 - It is not just to provide a service, but rather to be a service to your communities. This involves being guided by community driven principles including making teams independent of you; promoting freedom not autonomy; being a role model; as well as respecting & recognising community differences.
 
-> This concept encapsulates building a platform that serves *as a foundation for other engineering teams building products and systems on top of it for end users*.
+This concept encapsulates building a platform that serves *as a foundation for other engineering teams building products and systems on top of it for end users*.
 
 So the goals include:
 - Improving developer productivity and efficiency - through things like tooling, automation and infrastructure-as-code 
